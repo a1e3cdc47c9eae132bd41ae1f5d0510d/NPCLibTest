@@ -1,0 +1,1 @@
+Little quick and dirty example for an Usage of the NPCLib

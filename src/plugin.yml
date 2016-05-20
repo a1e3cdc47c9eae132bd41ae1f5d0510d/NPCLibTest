@@ -1,0 +1,4 @@
+name: NPCApiTest
+main: de.notaviable.npctest.NPCTest
+version: 1.0
+depend: [NPCApi]
